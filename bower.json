@@ -1,0 +1,8 @@
+{
+  "name": "my-bower-lib",
+  "version": "0.0.1",
+  "main": "./mybowerlib.js",
+  "ignore": [],
+  "dependencies": {
+  }
+}
